@@ -1,0 +1,28 @@
+{
+    "title": "Exchris's Glory",
+    "author": "Exchris",
+    "description": "gitbook learn",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "my gitblog": "https://exchris.github.io"
+        }
+    },
+    "plugins": ["mathjax"],
+    "pluginsConfig": {
+        "mathjax": {
+            "forceSVG": true
+        }
+    }
+}
